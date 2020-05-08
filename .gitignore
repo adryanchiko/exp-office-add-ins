@@ -19,3 +19,5 @@ frontend/dist
 *.ntvs*
 *.njsproj
 *.sln
+
+frontend/yarn.lock
